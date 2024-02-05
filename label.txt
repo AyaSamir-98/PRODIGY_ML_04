@@ -1,0 +1,10 @@
+ label_name
+0 A
+1 B
+2 C
+3 candy
+4 Hello
+5 I love you
+6 No
+7 who
+8 Yes
